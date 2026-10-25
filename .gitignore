@@ -1,0 +1,6 @@
+# Private source material and local usage history
+**/assets/photos/
+**/selection-history.json
+.DS_Store
+.env
+.env.*

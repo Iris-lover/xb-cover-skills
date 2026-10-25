@@ -1,0 +1,5 @@
+interface:
+  display_name: "XB 小红书封面"
+  short_description: "真人主体搭配简洁卡通图标与专属小人物的封面工作流"
+  default_prompt: "请用 xb-xhs-cover 逐步确认主题、主元素结构和辅助信息，再生成非像素卡通风格的小红书封面。"
+
