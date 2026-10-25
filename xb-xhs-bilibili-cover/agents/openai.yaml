@@ -1,0 +1,4 @@
+interface:
+  display_name: "XB 小红书 / Bilibili 封面"
+  short_description: "先收集用户照片与风格，再创建小红书竖版或 B 站横版个人封面图片"
+  default_prompt: "请用 $xb-xhs-bilibili-cover 先询问我的个人照片和想要的风格，再按我选择的平台创建封面。"
